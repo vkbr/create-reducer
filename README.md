@@ -1,6 +1,6 @@
 # Create Reducer
 
-Simple and functional way of creating reducers.
+Simple and functional way of writing reducers (instead of writing huge switch case).
 
 ## Usage
 
